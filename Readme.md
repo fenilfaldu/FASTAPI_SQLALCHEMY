@@ -6,7 +6,7 @@
 3. RDS PostgreSQL Database: Set up a PostgreSQL database on AWS RDS.
 4. Docker Hub Account: Ensure you have a Docker Hub account to push your Docker image
 
-Clone this repo your directory structure should look like this 
+Clone this repo your directory structure should look like this \
   /.your_project \
 |-- .env \
 |-- docker-compose.yml \
