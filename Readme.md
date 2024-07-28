@@ -6,7 +6,7 @@
 3. RDS PostgreSQL Database: Set up a PostgreSQL database on AWS RDS.
 4. Docker Hub Account: Ensure you have a Docker Hub account to push your Docker image
 
-Clone this repo your directory structure should look like this \
+Clone this repo your directory structure should look like this 
   /.your_project \
 |-- .env \
 |-- docker-compose.yml \
@@ -91,4 +91,10 @@ Build your Docker image and push it to Docker Hub:
 12. You have successfully FastAPI Application with SQLAlchemy on EC2 using Docker with RDS(Postgre sql) setup on AWS
 
     
-    
+### Output
+1. JSON object with a dynamic number of fields and stores this JSON 
+![alt text](image.png)
+
+
+2. JSON with user details and a unique user ID(guid) 
+![alt text](image-1.png)
